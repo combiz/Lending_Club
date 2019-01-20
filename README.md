@@ -13,5 +13,3 @@ A logistic regression model built for a binomial classification problem.  Includ
 - Model evaluation using common performance metrics for binomial classification problems (e.g. confusion matrix, Youden's Index, Gini-index, KS score, and ROC plot / AUC).
 
 ![alt text](https://github.com/thecombiz/Lending_Club/blob/master/images/lgmap.png)
-
-![alt text](https://github.com/thecombiz/Lending_Club/blob/master/images/roc.png)
