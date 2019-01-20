@@ -1,0 +1,21 @@
+#"Loan Amount" - The listed amount of the loan applied for by the borrower.
+#"Loan Term" - The number of payments on the loan. Values are in months and can be either 36 or 60.
+#"Employment Length" - Employment length in years. Possible values are between 0 and 10 where 0 means less than one year and 10 means ten or more years. 
+#"Home Ownership" - The home ownership status provided by the borrower during registration or obtained from the credit report. Our values are: RENT, OWN, MORTGAGE, OTHER
+#"Annual Income" - The self-reported annual income provided by the borrower during registration.
+#"Loan Purpose" - A category provided by the borrower for the loan request. 
+#"Address State" - The state provided by the borrower in the loan application
+#"Debt To Income Ratio" - A ratio calculated using the borrower’s total monthly debt payments on the total debt obligations, excluding mortgage and the requested LC loan, divided by the borrower’s self-reported monthly income.
+#"No. Delinquencies In Last 2 Years" - The number of 30+ days past-due incidences of delinquency in the borrower's credit file for the past 2 years
+#"Earliest Credit Line Opened" - The month the borrower's earliest reported credit line was opened
+#"FICO Credit Score"
+#"No. Inquiries In Last 6 Months" - The number of inquiries in past 6 months (excluding auto and mortgage inquiries)
+#"Months Since Last Delinquency" - The number of months since the borrower's last delinquency.
+#"No. Of Credit Lines" - The number of open credit lines in the borrower's credit file.
+#"No. Adverse Public Records" - Number of derogatory public records
+#"Total Credit Balance" - Total credit balance excluding mortgage (*double check this definition*)
+#"Use Of Credit Line" - Revolving line utilization rate, or the amount of credit the borrower is using relative to all available revolving credit. (*double check this definition*)
+#"Total Number Of Credit Lines" - The total number of credit lines currently in the borrower's credit file
+#"Loan Application Description" - Loan description provided by the borrower.  (** This is actually a description word-count **)
+#"No. Of Public Record Bankruptcies"
+#"Class"  - "Uncreditworthy" or "Creditworthy" corresponding to default or completed
